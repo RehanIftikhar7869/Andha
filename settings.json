@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Andha",
+    "username": "Diljale",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,16 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Mera Naam Shaka Hai",
+        "Rakh Ke Dahher Main Hath Na Laga Jal Jaaye Gi",
+        "Naam Mera Shabnam Hai Aag Toh Mai Bhi Hoon Shaka",
+        "Diljale Diljale O Lale Yahan Toh Sabhi Diljale Hain",
+        "Aarzoo Jhuth Hai Kahani Hai Aarzoo Ka Fareeb Kahana Nahi",
+        "Khush Jo Rehna Ho Zindagi Mein Tumhein Dil Kabhi Kisise Lagana Nahi",
+        "Kyun Banati Ho Tum Yeh Mehal Jinko Aik Roz Khudi Mitao Gi Tum",
+        "Aaj Kehti Is Diljale Se Pyar Hai Tumhein Kal Mera Naam Tak Bhul Jaogi",
+        "Aik Pal Main Jo Aakar Jo Guzar Jata Hai Yeh Hawa Ka Woh Jhonka Hai Aur Kuch Nahi",
+        "Pyaar Kehti Hai Yeh Duniya Jise Aik Rangeen Dhoka Hai Aur Kuch Nahi"
       ]
     },
     "chat-log": true,
