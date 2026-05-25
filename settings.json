@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Diljale",
+    "username": "Shaka",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "devilsmp.playserver.pro",
-    "port": 19389,
+    "ip": "devilsmp103.playserver.pro",
+    "port": 28779,
     "version": "1.20.1",
     "try-creative": false
   },
